@@ -2,7 +2,8 @@
 ## 前言：
 
 之前和大佬[hooke007](https://github.com/hooke007)交流的时候,就提到过模式切换的脚本.
-本人喜欢折腾,就写出了此脚本🤣UOSC用久了可以尝试换下口味.可配合[懒人包](https://github.com/hooke007/MPV_lazy/releases/download/)使用.
+本人喜欢折腾,就写出了此脚本
+🤣UOSC用久了可以尝试换下口味.可配合[懒人包](https://github.com/hooke007/MPV_lazy/releases/download/)使用.
 
 ---
 
