@@ -71,7 +71,7 @@ OSC_Plus效果:
 
 ### **OSC_Plus快捷键**：  
 
-建议看看OSC_Plus模式下的快捷键,与UOSC模式有所不
+建议看看OSC_Plus模式下的快捷键,与UOSC模式有所不同
 
 [input_osc_p.conf](https://github.com/sunjanesy/mpv-change-osc-switcher/blob/main/installer/OscBak/portable_config_osc_p/input_osc_p.conf)
 
