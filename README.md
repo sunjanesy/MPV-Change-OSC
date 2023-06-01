@@ -1,4 +1,4 @@
-# mpv-change-osc-switcher
+# MPV-Change-OSC-Switcher
 ## 前言：
 
 之前和大佬[hooke007](https://github.com/hooke007)交流的时候,就提到过OSC模式切换.
