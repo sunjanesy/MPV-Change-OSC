@@ -70,7 +70,8 @@ OSC_PLUS效果:
 
 ### **input-conf配置**：  
 
-主要展示osc_plus模式下的作快捷键
+主要展示osc_plus模式下的作快捷键,与uosc模式有所不同,建议看看
+
 [input_osc_p.conf](https://github.com/sunjanesy/mpv-change-osc-switcher/blob/main/installer/OscBak/portable_config_osc_p/input_osc_p.conf)
 
 ---
@@ -78,4 +79,5 @@ OSC_PLUS效果:
 ### **下载地址**:
 
 [mpv-lazy.zip](https://github.com/hooke007/MPV_lazy/files/11612460/mpv-lazy.zip)
+
 希望脚本能助力使用MPV更加便捷.😊
