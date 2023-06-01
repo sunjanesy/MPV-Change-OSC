@@ -22,7 +22,7 @@ UOSC用久了可以尝试换下口味,本人喜欢折腾,就写出了此脚本.�
 
 ## 设计思路:
 
-处理过程并不复杂,首次使用会进行初始化,并切换到OSC_PLUS模式,之后再运行该脚本会在两个模式间互切.
+处理过程并不复杂,首次使用会进行初始化,并切换到OSC_Plus模式,之后再运行该脚本会在两个模式间互切.
 ![Xmind](https://github.com/hooke007/MPV_lazy/assets/104602119/8333da24-7449-4fe0-93ab-57c86f153583)
 
 
@@ -38,7 +38,7 @@ UOSC用久了可以尝试换下口味,本人喜欢折腾,就写出了此脚本.�
 
 解压覆盖到[mpv-lazy]目录中,双击[installer]目录下的`mpv-切换osc.bat`即可切换,
 
-OSC_PLUS效果:
+OSC_Plus效果:
 ![osc_plus](https://github.com/hooke007/MPV_lazy/assets/104602119/f46a49ae-ba23-4ac2-957e-3a8c7ab57783)
 
 主要文件:
