@@ -70,6 +70,7 @@ OSC_PLUS效果:
 
 ### **input_osc_p.conf配置**：  
 
+主要展示osc_plus模式下的作快捷键
 [input_osc_p.conf](https://github.com/sunjanesy/mpv-change-osc-switcher/blob/main/installer/OscBak/portable_config_osc_p/input_osc_p.conf)
 
 ---
