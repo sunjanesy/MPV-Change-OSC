@@ -14,7 +14,7 @@
     - [Batch代码](#Batch代码)
     - [脚本须知](#脚本须知)
 - [MPV配置](#MPV配置) 
-    - [input配置](#input-conf配置)
+    - [osc_plus快捷键](#osc_plus快捷键)
     - [下载地址](#下载地址)
 
 ---
@@ -68,7 +68,7 @@ OSC_PLUS效果:
 
 ---
 
-### **input-conf配置**：  
+### **osc_plus快捷键**：  
 
 主要展示osc_plus模式下的作快捷键,与uosc模式有所不同,建议看看
 
