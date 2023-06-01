@@ -47,10 +47,9 @@ OSC_PLUS效果:
 
 ### **Batch代码**:
 
-```
-@mpv-切换osc.bat
 
----
+[mpv-切换osc.bat](https://github.com/sunjanesy/mpv-change-osc-switcher/tree/main/installer/mpv-%E5%88%87%E6%8D%A2osc.bat)
+
 
 ### **脚本须知**:
 
