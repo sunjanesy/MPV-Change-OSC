@@ -15,7 +15,7 @@ UOSC用久了可以尝试换下口味,本人喜欢折腾,就写出了此脚本.�
     - [Batch代码](#Batch代码)
     - [脚本须知](#脚本须知)
 - [MPV配置](#MPV配置) 
-    - [osc_plus快捷键](#osc_plus快捷键)
+    - [OSC_Plus快捷键](#OSC_Plus快捷键)
     - [下载地址](#下载地址)
 
 ---
@@ -64,14 +64,14 @@ OSC_PLUS效果:
 
 对配置文件进行了少量修改,仅展示input_osc_p.conf方便查看.
 
-1. OSC_PLUS模式下[ontextmenu_gui]的main.lua,配套的input_osc_p.conf和script-opts.conf
+1. OSC_Plus模式下[ontextmenu_gui]的main.lua,配套的input_osc_p.conf和script-opts.conf
 2. UOSC模式下的input_uosc.conf,为了使两模式下的滤镜和着色器的快捷键相同,降低学习成本.
 
 ---
 
-### **osc_plus快捷键**：  
+### **OSC_Plus快捷键**：  
 
-主要展示osc_plus模式下的作快捷键,与uosc模式有所不同,建议看看
+主要展示OSC_Plus模式下的作快捷键,与UOSC模式有所不同,建议看看
 
 [input_osc_p.conf](https://github.com/sunjanesy/mpv-change-osc-switcher/blob/main/installer/OscBak/portable_config_osc_p/input_osc_p.conf)
 
