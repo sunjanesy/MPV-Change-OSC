@@ -14,7 +14,7 @@
     - [Batch代码](#Batch代码)
     - [脚本须知](#脚本须知)
 - [MPV配置](#MPV配置) 
-    - [input配置](#input_osc_p.conf配置)
+    - [input配置](#input-conf配置)
     - [下载地址](#下载地址)
 
 ---
@@ -68,7 +68,7 @@ OSC_PLUS效果:
 
 ---
 
-### **input_osc_p.conf配置**：  
+### **input-conf配置**：  
 
 主要展示osc_plus模式下的作快捷键
 [input_osc_p.conf](https://github.com/sunjanesy/mpv-change-osc-switcher/blob/main/installer/OscBak/portable_config_osc_p/input_osc_p.conf)
