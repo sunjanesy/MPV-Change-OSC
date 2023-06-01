@@ -62,7 +62,7 @@ OSC_Plus效果:
 
 ## MPV配置：
 
-对配置文件进行了少量修改,仅展示input_osc_p.conf方便查看.
+对配置文件进行了少量修改
 
 1. OSC_Plus模式下[ontextmenu_gui]的main.lua,配套的input_osc_p.conf和script-opts.conf
 2. UOSC模式下的input_uosc.conf,为了使两模式下的滤镜和着色器的快捷键相同,降低学习成本.
